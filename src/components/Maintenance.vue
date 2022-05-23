@@ -1,7 +1,5 @@
 <template>
-  <div
-    class="content d-flex flex-column align-items-center justify-content-evenly"
-  >
+  <div class="content d-flex flex-column align-items-center justify-content-evenly">
     <h1 class="text-white lowercase fw-bold text-center align-middle">
       {{ props.message }}
     </h1>
@@ -26,13 +24,7 @@
       >
         <div style="box-sizing: border-box; display: block; max-width: 100%">
           <IconInstagram
-            style="
-              max-width: 100%;
-              display: block;
-              margin: 0;
-              border: none;
-              padding: 0;
-            "
+            style="max-width: 100%; display: block; margin: 0; border: none; padding: 0"
             aria-hidden="true"
             role="presentation"
             width="40"
@@ -82,13 +74,7 @@
       >
         <div style="box-sizing: border-box; display: block; max-width: 100%">
           <IconLinkedin
-            style="
-              max-width: 100%;
-              display: block;
-              margin: 0;
-              border: none;
-              padding: 0;
-            "
+            style="max-width: 100%; display: block; margin: 0; border: none; padding: 0"
             aria-hidden="true"
             role="presentation"
             width="40"
